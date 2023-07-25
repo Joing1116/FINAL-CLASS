@@ -13,7 +13,7 @@
 
 # [3.載PYTHON](https://www.python.org/downloads/)
 
-[Download Python](https://www.python.org/downloads/)
+
 
 # 4.print(”hellow world”) 測試是否成功
 
