@@ -2,7 +2,7 @@
 
 # [1.下載VS CODE](https://code.visualstudio.com/Download)
 
-[](https://i.imgur.com/Jz5rRwT.png)
+![](https://i.imgur.com/Jz5rRwT.png)
 
 # 2.下載外掛
 
