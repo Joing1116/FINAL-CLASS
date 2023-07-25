@@ -1,4 +1,4 @@
-![Untitled][NOTION筆記](https://magic-parcel-0ec.notion.site/DAY5-0eb36d2eef594b99a9d89c7bc440b100?pvs=4)
+[NOTION筆記](https://magic-parcel-0ec.notion.site/DAY5-0eb36d2eef594b99a9d89c7bc440b100?pvs=4)
 
 # [1.下載VS CODE](https://code.visualstudio.com/Download)
 
@@ -11,7 +11,7 @@
 
 **要記得重開VS**
 
-# 3.載PYTHON
+# [3.載PYTHON](https://www.python.org/downloads/)
 
 [Download Python](https://www.python.org/downloads/)
 
