@@ -1,6 +1,7 @@
 **[NOTION筆記](https://magic-parcel-0ec.notion.site/DAY5-0eb36d2eef594b99a9d89c7bc440b100?pvs=4)**
 
-# 1.下載VS CODE
+# [1.下載VS CODE](https://code.visualstudio.com/Download)
+
 
 [](https://code.visualstudio.com/Download)
 
