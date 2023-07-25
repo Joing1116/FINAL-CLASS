@@ -20,6 +20,6 @@
 
 5.JUPYTER 開啟方法
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85745468-d8f8-45e9-9b3b-de3b44175370/Untitled.png)
+![Untitled](https://i.imgur.com/XgKfkB1.png)
 
-![Untitled]https://i.imgur.com/9TqDDy8.png
+![Untitled](https://i.imgur.com/9TqDDy8.png)
